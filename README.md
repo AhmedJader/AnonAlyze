@@ -1,4 +1,4 @@
-# AnonAlyze
+# AnonAlyze [WINNER OF BEST SECURITY HACK BY 1PASSWORD AT CTRL+HACK+DELETE]
 
 ## 💡 Inspiration
 **AnonAlyze**'s journey began when having not known each other until now, we used Hackerdex to share our social media accounts. As we explored each other’s profiles, it quickly became clear just how much sensitive information we were all unintentionally sharing online. This opened our eyes to the security risks we each faced on social media, especially as we realized how easy it could be for outsiders to misuse our information.
